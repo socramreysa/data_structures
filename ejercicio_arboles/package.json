@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio_arboles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcos",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}
